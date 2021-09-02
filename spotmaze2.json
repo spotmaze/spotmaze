@@ -55,10 +55,6 @@
 		{ "Start": "UseCase3"   	,	"End": "UseCase4"  	},
 		{ "Start": "UseCase4"   	,	"End": "UseCase5"  	},
 
-
-		{ "Start": "StartPoint"   ,	"End": "Traveling1"  	,	"Path":[[0,0],[0,1],[1,1],[1,0]] },
-		{ "Start": "Traveling1"   ,	"End": "Traveling2"  	,					 },
-		
 	],
 
 	
