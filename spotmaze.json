@@ -21,13 +21,29 @@
 	},
 
 	"Spots": [
-		{"Name": "StartPoint"  	 ,	"Location": [0, 0]  , "Text":"Spotmaze"   ,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
-		{"Name": "Traveling1"    ,	"Location": [1, 0]  , "Text":"Spotmaze"   ,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
-		{"Name": "Traveling2"    ,	"Location": [2, 0]  ,			  				       						  	  	  },
-		],
+		{"Name": "Intro"  	 ,	"Location": [0, 0]  , "Text":"What is Spotmaze?"   ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
+
+		{"Name": "Features"  	 ,	"Location": [1, 0]  , "Text":"Features"   },
+		{"Name": "Feature1"    ,	"Location": [1, 1]  , "Text":"Build Virtual Worlds"   ,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
+		{"Name": "Feature2"    ,	"Location": [1, 2]  , "Text":"Write Text"     ,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
+		{"Name": "Feature3"    ,	"Location": [1, 2]  , "Text":"Connect Forums"     ,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
+		{"Name": "Feature4"    ,	"Location": [1, 2]  , "Text":"Attach Images"      ,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
+		{"Name": "Feature5"    ,	"Location": [1, 2]  , "Text":"Pathways Creation"     ,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
+
+	
+	],
 	
 	"Maze": [
-		{ "Start": "StartPoint"   ,	"End": "Traveling1"  	,	"Path":[[0,0],[0,1],[1,1],[1,0]] },
+		{ "Start": "Intro"   		,	"End": "Features"  ,}
+
+		{ "Start": "Features"   ,	"End": "Feature1"  	,}
+		{ "Start": "Feature1"   ,	"End": "Feature2"  	,}
+		{ "Start": "Feature2"   ,	"End": "Feature3"  	,}
+		{ "Start": "Feature3"   ,	"End": "Feature4"  	,}
+		{ "Start": "Feature4"   ,	"End": "Feature5"  	,}
+
+
+{ "Start": "StartPoint"   ,	"End": "Traveling1"  	,	"Path":[[0,0],[0,1],[1,1],[1,0]] },
 		{ "Start": "Traveling1"   ,	"End": "Traveling2"  	,					 }
 		
 	],
@@ -36,6 +52,25 @@
 	"Section [3]"	:"____________________________Tutorials________________________________(Section Not Required)",
 	
 	"Get Started":{
+		"Sample 0":{
+			"Base Plate": {	
+				"Xmin"	:	-10	,
+				"Xmax"	:	 10	, 	
+				"Ymin"	:	-10	,	
+				"Ymax"	: 	 10  	,
+			},
+
+			"Spots": [
+				{"Name": "StartPoint"  	,	"Location": [0, 0]  , "Text":"Spotmaze"   ,	"Image" : "Slide2-resize.png"  	,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
+				{"Name": "Traveling1"   ,	"Location": [1, 0]  , "Text":"Spotmaze"   ,	"Image" : "Slide2-resize.png" 	,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
+			],
+
+			"Maze": [
+				{ "Start": "StartPoint" ,	"End": "Traveling1"  	,	"Path":[[0,0],[0,1],[1,1],[1,0]]	       	,			},
+			],
+		},
+
+		"Next Sample"	:"----------------------------------",
 		"Sample 1":{
 			"Base Plate": {	
 				"Xmin"	:	-10	,
