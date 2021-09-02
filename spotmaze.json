@@ -31,11 +31,11 @@
 		{"Name": "Feature4"    ,	"Location": [1, 4]   , "Text":"Attach Images"      	,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
 		{"Name": "Feature5"    ,	"Location": [1, 5]   , "Text":"Pathways Creation"     	,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
 
-		{"Name": "UseCases1"    ,	"Location": [2, -1]  , "Text":"Gamification" 		,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
-		{"Name": "UseCases2"    ,	"Location": [2, -2]  , "Text":"Tour Creation"   	,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
-		{"Name": "UseCases3"    ,	"Location": [2, -3]  , "Text":"Finding things"     	,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
-		{"Name": "UseCases4"    ,	"Location": [2, -4]  , "Text":"Better Engagement"     	,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
-		{"Name": "UseCases5"    ,	"Location": [2, -5]  , "Text":"Clear Visualization"      ,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
+		{"Name": "UseCase1"    ,	"Location": [2, -1]  , "Text":"Gamification" 		,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
+		{"Name": "UseCase2"    ,	"Location": [2, -2]  , "Text":"Tour Creation"   	,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
+		{"Name": "UseCase3"    ,	"Location": [2, -3]  , "Text":"Finding things"     	,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
+		{"Name": "UseCase4"    ,	"Location": [2, -4]  , "Text":"Better Engagement"     	,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
+		{"Name": "UseCase5"    ,	"Location": [2, -5]  , "Text":"Clear Visualization"      ,	"Image" : "Slide2-resize.png"  ,	"Forum": "welcome-to-the-forum/ginger-bread-house"},
 	],
 	
 	"Maze": [
