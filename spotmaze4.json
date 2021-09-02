@@ -5,7 +5,7 @@
 	"Section [1]"	:"_______________________Developer Section_____________________________(Section Highly Recommended To Add)",
 	
 	"Developer Mode": {
-		"Status"	: 	"On"			,	"Info1":	"Turns on the Developer Interface"	,
+		"Status"	: 	"Off"			,	"Info1":	"Turns on the Developer Interface"	,
 		"File Name"	: 	"My World"		,	"Info2":	"Name of the file"			,
 		"Version"	: 	"0.0.0"			,	"Info3":	"File Version for checking FIle"	,
 		"Syntax"	:	"1.0"			,	"Info4":	"File Syntax Version"			,
