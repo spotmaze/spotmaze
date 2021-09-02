@@ -50,6 +50,7 @@
 
 		{ "Start": "Intro"   		,	"End": "Features"  	},
 		{ "Start": "Features"   	,	"End": "UseCases"  	},
+		{ "Start": "UseCases"   	,	"End": "Benifits"  	},
 
 		{ "Start": "Features"   	,	"End": "Feature1"  	},
 		{ "Start": "Feature1"   	,	"End": "Feature2"  	},
