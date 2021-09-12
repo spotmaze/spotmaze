@@ -21,7 +21,7 @@
 	},
 
 	"Spots": [
-		{"Name": "Intro"  	 ,	"Location": [0, 0]  , "Text":"What is Spotmaze?\n<size=60%>(Press Enter)"   ,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
+		{"Name": "Intro"  	 ,	"Location": [0, 0]  , "Text":"What is Spotmaze?\n\n<size=60%>(Press <u>Enter</u> Here)"   ,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
 		{"Name": "Features"  	 ,	"Location": [1, 0]  , "Text":"Features"   },
 		{"Name": "UseCases"  	 ,	"Location": [2, 0]  , "Text":"Use Cases"  },
 		{"Name": "Benefits"  	 ,	"Location": [3, 0]  , "Text":"Benefits"   },
