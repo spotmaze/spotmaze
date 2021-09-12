@@ -7,7 +7,7 @@
 	"Developer Mode": {
 		"Status"	: 	"Off"			,	"Info1":	"Turns on the Developer Interface"	,
 		"File Name"	: 	"My World"		,	"Info2":	"Name of the file"			,
-		"Version"	: 	"0.0.1"			,	"Info3":	"File Version for checking FIle"	,
+		"Version"	: 	"0.0.2"			,	"Info3":	"File Version for checking FIle"	,
 		"Syntax"	:	"1.0"			,	"Info4":	"File Syntax Version"			,
 	},
 
@@ -21,7 +21,7 @@
 	},
 
 	"Spots": [
-		{"Name": "Intro"  	 ,	"Location": [0, 0]  , "Text":"What is Spotmaze?\n<size=30%>(Press Enter)"   ,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
+		{"Name": "Intro"  	 ,	"Location": [0, 0]  , "Text":"What is Spotmaze?\n<size=60%>(Press Enter)"   ,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
 		{"Name": "Features"  	 ,	"Location": [1, 0]  , "Text":"Features"   },
 		{"Name": "UseCases"  	 ,	"Location": [2, 0]  , "Text":"Use Cases"  },
 		{"Name": "Benefits"  	 ,	"Location": [3, 0]  , "Text":"Benefits"   },
