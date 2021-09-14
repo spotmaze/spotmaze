@@ -32,9 +32,9 @@
 		{"Name": "Feature4"    ,	"Location": [1, 4]   , "Text":"Write Content"  		,	"Image" : "slide.png"  ,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
 		{"Name": "Feature5"    ,	"Location": [1, 5]   , "Text":"Embed Images"      	,	"Image" : "slide.png"  ,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
 
-		{"Name": "UseCase1"    ,	"Location": [2, -1]  , "Text":"Building Maps"     	,	"Image" : "maps.png"  ,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
+		{"Name": "UseCase1"    ,	"Location": [2, -1]  , "Text":"<size=70%>Building Maps</size>\n\n\n\n\n"     	,	"Image" : "maps.png"  ,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
 		{"Name": "UseCase2"    ,	"Location": [2, -2]  , "Text":"<size=70%>Tour Creation</size>\n\n\n\n\n"   	,	"Image" : "tour.png"  	,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
-		{"Name": "UseCase3"    ,	"Location": [2, -3]  , "Text":"<size=60%>Organizing Meetups</size>\n\n\n\n\n"     	,	"Image" : "meetups.png"  ,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
+		{"Name": "UseCase3"    ,	"Location": [2, -3]  , "Text":"<size=50%>Organizing Meetups</size>\n\n\n\n\n"     	,	"Image" : "meetups.png"  ,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
 		{"Name": "UseCase4"    ,	"Location": [2, -4]  , "Text":"<size=80%>Gamification" 	,	"Image" : "slide.png"  ,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
 		{"Name": "UseCase5"    ,	"Location": [2, -5]  , "Text":"Finding Content"     	,	"Image" : "slide.png"  ,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
 
