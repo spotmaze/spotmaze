@@ -21,7 +21,7 @@
 	},
 
 	"Spots": [
-		{"Name": "Intro"  	 ,	"Location": [0, 0]  , "Text":"What is Spotmaze?\n\n<size=60%>(Press <u>Enter</u> Here)"   ,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
+		{"Name": "Intro"  	 ,	"Location": [0, 0]  , "Text":"What is Spotmaze?<size=60%>\n\n(Press <u>Enter</u> Here)"   ,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
 		{"Name": "Features"  	 ,	"Location": [1, 0]  , "Text":"Features"   },
 		{"Name": "Applications"  ,	"Location": [2, 0]  , "Text":"Applications"  },
 		{"Name": "Benefits"  	 ,	"Location": [3, 0]  , "Text":"Benefits"   },
