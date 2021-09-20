@@ -23,16 +23,16 @@
 	"___"	:"_______________________________________________________________________________________",
 
 	"Spots": [
-		{"Name": "Intro"  	    ,	"Location": [0, 0]  	, 	"Text":"Room 1<size=60%>\n\n(Press <u>Enter</u> Here)"   ,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
-		{"Name": "Features"  	  ,	"Location": [1, 0]  	, 	"Text":"Features"   			},
-		{"Name": "Applications" ,	"Location": [2, 0]  	, 	"Text":"<size=80%>Applications"  	},
-		{"Name": "Benefits"  	  ,	"Location": [3, 0]  	, 	"Text":"Benefits"   			},
+		{"Name": "Room"  	,	"Location": [0, 0]  	, 	"Text":"Room 1<size=60%>\n\n(Press <u>Enter</u> Here)"   ,	"Forum": "welcome-to-the-forum/room-1"},
+		{"Name": "Agenda"  	,	"Location": [1, 0]  	, 	"Text":"Agenda"			},
+		{"Name": "Readings" 	,	"Location": [2, 0]  	, 	"Text":"<size=80%>Readings"  	},
+		{"Name": "Targets"  	,	"Location": [3, 0]  	, 	"Text":"Targets"   		},
 	],
 
 	"Maze": [
-		{ "Start": "Intro"   		,	"End": "Features"  	},
-		{ "Start": "Features"   	,	"End": "Applications"  	},
-		{ "Start": "Applications"   	,	"End": "Benefits"  	},
+		{ "Start": "Room"   		,	"End": "Agenda"  	},
+		{ "Start": "Agenda"   		,	"End": "Readings"  	},
+		{ "Start": "Readings"   	,	"End": "Targets"  	},
 	],
 
 	"____"	:"_______________________________________________________________________________________",
