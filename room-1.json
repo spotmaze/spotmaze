@@ -63,6 +63,7 @@
 		{ "Start": "Feature2"   	,	"End": "Feature3"  	},
 		{ "Start": "Feature3"   	,	"End": "Feature4"  	},
 		{ "Start": "Feature4"   	,	"End": "Feature5"  	},
+		{ "Start": "Feature5"   	,	"End": "Feature6"  	},
 
 		{ "Start": "Applications"   	,	"End": "Application1"  	},
 		{ "Start": "Application1"   	,	"End": "Application2"  	},
