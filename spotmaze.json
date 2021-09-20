@@ -40,6 +40,7 @@
 		{"Name": "Application3" ,	"Location": [2, -3]  	, 	"Text":"<size=50%>Organizing Meetups</size>\n\n\n\n\n"     	,	"Image" : "Images/meetups.png"  	,	"Forum": "welcome-to-the-forum/organizing-meetups"},
 		{"Name": "Application4" ,	"Location": [2, -4]  	, 	"Text":"<size=80%>Gamification" 				,	"Image" : "Images/slide.png"  		},
 		{"Name": "Application5" ,	"Location": [2, -5]  	, 	"Text":"<size=70%>Finding Content</size>\n\n\n\n\n"		,	"Image" : "Images/find.png"  		},
+		{"Name": "Application6" ,	"Location": [2, -6]  	, 	"Text":"<size=70%>Site Maps</size>\n\n\n\n\n"			,	"Image" : "Images/maps.png"  		},
 
 		{"Name": "Benefit1"    ,	"Location": [3, 1]  	, 	"Text":"<size=70%>Community</size>\n\n\n\n\n"     		,	"Image" : "Images/community.png"  	},
 		{"Name": "Benefit2"    ,	"Location": [3, 2]  	, 	"Text":"Spatial Learning"					,	"Image" : "Images/slide.png"  		},
@@ -47,6 +48,13 @@
 		{"Name": "Benefit4"    ,	"Location": [3, 4]  	, 	"Text":"<size=80%>Better Recollection"    			,	"Image" : "Images/slide.png"  		},
 		{"Name": "Benefit5"    ,	"Location": [3, 5]  	, 	"Text":"<size=80%>Better Engagement"     			,	"Image" : "Images/slide.png"  		},
 		{"Name": "Benefit6"    ,	"Location": [3, 6]  	, 	"Text":"Improved Grasping"     					,	"Image" : "Images/slide.png"  		},
+
+		{"Name": "controls"  	,	"Location": [-2, -2]  	, 	"Text":"Controls"   				},
+		{"Name": "control2"  	,	"Location": [-2, -3]  	, 	"Text":"TAB\n<size=80%>Pause \n& Options"	},
+		{"Name": "control1"  	,	"Location": [-2, -4]  	, 	"Text":"ENTER\n<size=80%>Enter Forum"		},
+		{"Name": "control2"  	,	"Location": [-2, -5]  	, 	"Text":"SHIFT\n<size=80%>Run"			},
+		{"Name": "control2"  	,	"Location": [-2, -6]  	, 	"Text":"Mouse\n<size=80%>Look & Zoom"  		},
+		{"Name": "control2"  	,	"Location": [-2, -7]  	, 	"Text":"Arrow Keys\n& W-A-S-D\nMove"   		},
 			
 	],
 
