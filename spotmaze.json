@@ -20,32 +20,36 @@
 		"Ymax"	: 	 10  	,
 	},
 
+	"Info1"	:"Spots field consists of the location information in your world",
+	
 	"Spots": [
 		{"Name": "Intro"  	,	"Location": [0, 0]  	, 	"Text":"What is Spotmaze?<size=60%>\n\n(Press <u>Enter</u> Here)"   ,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
 		{"Name": "Features"  	,	"Location": [1, 0]  	, 	"Text":"Features"   			},
 		{"Name": "Applications" ,	"Location": [2, 0]  	, 	"Text":"<size=80%>Applications"  	},
 		{"Name": "Benefits"  	,	"Location": [3, 0]  	, 	"Text":"Benefits"   			},
 
-		{"Name": "Feature1"    	,	"Location": [1, 1]   	, 	"Text":"<size=70%>Build Worlds</size>\n\n\n\n\n"   		,	"Image" : "Images/build.png"  		,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
-		{"Name": "Feature2"    	,	"Location": [1, 2]   	, 	"Text":"Create Locations\n\n\n\n"     				,	"Image" : "Images/location.png"  	,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
-		{"Name": "Feature3"    	,	"Location": [1, 3]   	, 	"Text":"<size=70%>Connect Forums</size>\n\n\n\n\n"     		,	"Image" : "Images/forum.png"  		,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
-		{"Name": "Feature4"    	,	"Location": [1, 4]   	, 	"Text":"Write Content"  					,	"Image" : "Images/slide.png"  		,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
-		{"Name": "Feature5"    	,	"Location": [1, 5]   	, 	"Text":"Embed Images"      					,	"Image" : "Images/slide.png"  		,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
+		{"Name": "Feature1"    	,	"Location": [1, 1]   	, 	"Text":"<size=70%>Build Worlds</size>\n\n\n\n\n"   		,	"Image" : "Images/build.png"  		},
+		{"Name": "Feature2"    	,	"Location": [1, 2]   	, 	"Text":"Create Locations\n\n\n\n"     				,	"Image" : "Images/location.png"  	},
+		{"Name": "Feature3"    	,	"Location": [1, 3]   	, 	"Text":"<size=70%>Connect Forums</size>\n\n\n\n\n"     		,	"Image" : "Images/forum.png"  		},
+		{"Name": "Feature4"    	,	"Location": [1, 4]   	, 	"Text":"Write Content"  					,	"Image" : "Images/slide.png"  		},
+		{"Name": "Feature5"    	,	"Location": [1, 5]   	, 	"Text":"Embed Images"      					,	"Image" : "Images/slide.png"  		},
 
-		{"Name": "Application1" ,	"Location": [2, -1]  	, 	"Text":"<size=70%>Building Maps</size>\n\n\n\n\n"     		,	"Image" : "Images/maps.png"  		,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
-		{"Name": "Application2" ,	"Location": [2, -2]  	, 	"Text":"<size=70%>Tour Creation</size>\n\n\n\n\n"   		,	"Image" : "Images/tour.png"  		,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
-		{"Name": "Application3" ,	"Location": [2, -3]  	, 	"Text":"<size=50%>Organizing Meetups</size>\n\n\n\n\n"     	,	"Image" : "Images/meetups.png"  	,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
-		{"Name": "Application4" ,	"Location": [2, -4]  	, 	"Text":"<size=80%>Gamification" 				,	"Image" : "Images/slide.png"  		,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
-		{"Name": "Application5" ,	"Location": [2, -5]  	, 	"Text":"Finding Content"     					,	"Image" : "Images/slide.png"  		,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
+		{"Name": "Application1" ,	"Location": [2, -1]  	, 	"Text":"<size=70%>Building Maps</size>\n\n\n\n\n"     		,	"Image" : "Images/maps.png"  		},
+		{"Name": "Application2" ,	"Location": [2, -2]  	, 	"Text":"<size=70%>Tour Creation</size>\n\n\n\n\n"   		,	"Image" : "Images/tour.png"  		},
+		{"Name": "Application3" ,	"Location": [2, -3]  	, 	"Text":"<size=50%>Organizing Meetups</size>\n\n\n\n\n"     	,	"Image" : "Images/meetups.png"  	,	"Forum": "welcome-to-the-forum/organizing-meetups"},
+		{"Name": "Application4" ,	"Location": [2, -4]  	, 	"Text":"<size=80%>Gamification" 				,	"Image" : "Images/slide.png"  		},
+		{"Name": "Application5" ,	"Location": [2, -5]  	, 	"Text":"Finding Content"     					,	"Image" : "Images/find.png"  		},
 
-		{"Name": "Benefit1"    ,	"Location": [3, 1]  	, 	"Text":"<size=70%>Community</size>\n\n\n\n\n"     		,	"Image" : "Images/community.png"  	,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
-		{"Name": "Benefit2"    ,	"Location": [3, 2]  	, 	"Text":"Spatial Learning"					,	"Image" : "Images/slide.png"  		,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
-		{"Name": "Benefit3"    ,	"Location": [3, 3]  	, 	"Text":"Spatial Memory"   					,	"Image" : "Images/slide.png"  		,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
-		{"Name": "Benefit4"    ,	"Location": [3, 4]  	, 	"Text":"<size=80%>Better Recollection"    			,	"Image" : "Images/slide.png"  		,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
-		{"Name": "Benefit5"    ,	"Location": [3, 5]  	, 	"Text":"<size=80%>Better Engagement"     			,	"Image" : "Images/slide.png"  		,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
-		{"Name": "Benefit6"    ,	"Location": [3, 6]  	, 	"Text":"Improved Grasping"     					,	"Image" : "Images/slide.png"  		,	"Forum": "welcome-to-the-forum/what-is-spotmaze"},
+		{"Name": "Benefit1"    ,	"Location": [3, 1]  	, 	"Text":"<size=70%>Community</size>\n\n\n\n\n"     		,	"Image" : "Images/community.png"  	},
+		{"Name": "Benefit2"    ,	"Location": [3, 2]  	, 	"Text":"Spatial Learning"					,	"Image" : "Images/slide.png"  		},
+		{"Name": "Benefit3"    ,	"Location": [3, 3]  	, 	"Text":"Spatial Memory"   					,	"Image" : "Images/slide.png"  		},
+		{"Name": "Benefit4"    ,	"Location": [3, 4]  	, 	"Text":"<size=80%>Better Recollection"    			,	"Image" : "Images/slide.png"  		},
+		{"Name": "Benefit5"    ,	"Location": [3, 5]  	, 	"Text":"<size=80%>Better Engagement"     			,	"Image" : "Images/slide.png"  		},
+		{"Name": "Benefit6"    ,	"Location": [3, 6]  	, 	"Text":"Improved Grasping"     					,	"Image" : "Images/slide.png"  		},
 			
 	],
+
+	"Info2"	:"Maze field consists of the connectivity of Locations in your world",
 	
 	"Maze": [
 
