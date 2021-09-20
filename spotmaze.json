@@ -50,11 +50,11 @@
 		{"Name": "Benefit6"    ,	"Location": [3, 6]  	, 	"Text":"Improved Grasping"     					,	"Image" : "Images/slide.png"  		},
 
 		{"Name": "controls"  	,	"Location": [-2, -2]  	, 	"Text":"Controls"   				},
-		{"Name": "control2"  	,	"Location": [-2, -3]  	, 	"Text":"TAB\n<size=80%>Pause \n& Options"	},
-		{"Name": "control1"  	,	"Location": [-2, -4]  	, 	"Text":"ENTER\n<size=80%>Enter Forum"		},
-		{"Name": "control2"  	,	"Location": [-2, -5]  	, 	"Text":"SHIFT\n<size=80%>Run"			},
-		{"Name": "control2"  	,	"Location": [-2, -6]  	, 	"Text":"Mouse\n<size=80%>Look & Zoom"  		},
-		{"Name": "control2"  	,	"Location": [-2, -7]  	, 	"Text":"Arrow Keys\n& W-A-S-D\nMove"   		},
+		{"Name": "control1"  	,	"Location": [-2, -3]  	, 	"Text":"TAB\n<size=80%>Pause \n& Options"	},
+		{"Name": "control2"  	,	"Location": [-2, -4]  	, 	"Text":"ENTER\n<size=80%>Enter Forum"		},
+		{"Name": "control3"  	,	"Location": [-2, -5]  	, 	"Text":"SHIFT\n<size=80%>Run"			},
+		{"Name": "control4"  	,	"Location": [-2, -6]  	, 	"Text":"Mouse\n<size=80%>Look & Zoom"  		},
+		{"Name": "control5"  	,	"Location": [-2, -7]  	, 	"Text":"Arrow Keys\n& W-A-S-D\nMove"   		},
 			
 	],
 
