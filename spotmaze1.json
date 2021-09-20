@@ -86,15 +86,13 @@
 		{ "Start": "Benefit4"   	,	"End": "Benefit5"  	},
 		{ "Start": "Benefit5"   	,	"End": "Benefit6"  	},
 
-		{ "Start": "Benefit6"   	,	"End": "Feature6"  	,	 "Path": [ [3,6] , [3,7] , [1,7] , [1,6] ] },
-
-		
-		
 		{ "Start": "controls"   	,	"End": "control1"  	},
 		{ "Start": "control1"   	,	"End": "control2"  	},
 		{ "Start": "control2"   	,	"End": "control3"  	},
 		{ "Start": "control3"   	,	"End": "control4"  	},
 		{ "Start": "control4"   	,	"End": "control5"  	},
+
+		{ "Start": "Benefit6"   	,	"End": "Feature6"  	,	 "Path": [ [3,6] , [3,7] , [1,7] , [1,6] ] },
 		
 	],
 
