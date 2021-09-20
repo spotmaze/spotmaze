@@ -86,16 +86,16 @@
 
 	"Info": {
 		"URLs":{
-			"Stardard" 	:	"https://spotmaze.world/My_Github_User_ID"		,
-		        "DevMode"	:	"https://spotmaze.world/My_Github_User_ID?MyFile.json"	,
+			"spotmaze.json"	:	"https://spotmaze.world/__USERNAME__"		,
+		        "room-1.JSON"	:	"https://spotmaze.world/__USERNAME__?room-1"	,
 		 },
 		
 		"Dev Mode": {
 			"1": "Turn on Dev mode to see numbering and file versions"						,
-			"2": "Check file version before running program, at https://jsonformatter.org/"				,
-			"3": "Validate/Edit your JSON file using any JSON editors/validors"					,
-			"4": "In Dev mode, to avoid default path, use querry (?) parameter to access files in other folders"	, 
-			"5": "For eg https://spotmaze.world/My_Github_User_ID/?MyFolder/MyFile.json"				,
+			"2": "Check file version before running program"							,
+			"3": "Validate/Edit your JSON file using any JSON editors/validors, at https://jsonformatter.org/"	,
+			"4": "To use custome file, use querry (?) parameter folloed by "	, 
+			"5": "For eg https://spotmaze.world/My_Github_User_ID/?myfile"						,
 		},
 
 		"JSON Editors":{
