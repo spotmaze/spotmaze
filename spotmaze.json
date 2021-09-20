@@ -87,7 +87,7 @@
 	"Info": {
 		"URLs":{
 			"spotmaze.json"	:	"https://spotmaze.world/__USERNAME__"		,
-		        "room-1.JSON"	:	"https://spotmaze.world/__USERNAME__?room-1"	,
+		        "room-1.json"	:	"https://spotmaze.world/__USERNAME__?room-1"	,
 		 },
 		
 		"Dev Mode": {
