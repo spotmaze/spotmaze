@@ -10,7 +10,7 @@ You first create a grid of connected locations and pathways. These are meant to 
 - To refresh your world, you can rename your file to "[room-1.json](https://github.com/spotmaze/spotmaze/blob/main/room-1.json)" and query the URL [https://spotmaze.world/\_\_USERNAME\_\_?room-1](https://spotmaze.world/spotmaze?room-1). 
 - To embed images into your world, you can drag and drop your Image folder into the repository, and add "[Images/my-img.png](https://github.com/spotmaze/spotmaze/tree/main/Images)" into the image field. 
 - You can further customize your world by editing the appropriate fields in your spotmaze.json file. 
-- For in-game debugging, turn on the grid in the Developer section and press backspace to open the console.
+- For an __in-game debugging__ experience, turn on the grid in the developer section and press `backspace` to toggle the console.
 
 <!--
 **spotmaze/spotmaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
