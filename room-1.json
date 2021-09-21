@@ -8,7 +8,7 @@
 		"Status"	: 	"Off"			,	"Info1":	"Turns on the Developer Interface"	,
 		"File Name"	: 	"My World"		,	"Info2":	"Name of the file"			,
 		"Version"	: 	"0.0.2"			,	"Info3":	"File Version for checking FIle"	,
-		"Syntax"	:	"1.0"			,	"Info4":	"File Syntax Version"			,
+		"Syntax"	:	"1.0"			,	"Info4":	"File Syntax Version"			
 	},
 
 	"__"	:"_______________________________________________________________________________________",
@@ -17,7 +17,7 @@
 		"Xmin"	:	-10	,
 		"Xmax"	:	 10	, 	
 		"Ymin"	:	-10	,	
-		"Ymax"	: 	 10  	,
+		"Ymax"	: 	 10  	
 	},
 
 	"___"	:"_______________________________________________________________________________________",
@@ -26,17 +26,15 @@
 		{"Name": "Room"  	,	"Location": [0, 0]  	, 	"Text":"Room 1<size=60%>\n\n(Press <u>Enter</u> Here)"   ,	"Forum": "welcome-to-the-forum/room-1"},
 		{"Name": "Agenda"  	,	"Location": [1, 0]  	, 	"Text":"Agenda"			},
 		{"Name": "Readings" 	,	"Location": [2, 0]  	, 	"Text":"<size=80%>Readings"  	},
-		{"Name": "Targets"  	,	"Location": [3, 0]  	, 	"Text":"Targets"   		},
+		{"Name": "Targets"  	,	"Location": [3, 0]  	, 	"Text":"Targets"   		}
 	],
 
 	"Maze": [
 		{ "Start": "Room"   		,	"End": "Agenda"  	},
 		{ "Start": "Agenda"   		,	"End": "Readings"  	},
-		{ "Start": "Readings"   	,	"End": "Targets"  	},
+		{ "Start": "Readings"   	,	"End": "Targets"  	}
 	],
 
 	"____"	:"_______________________________________________________________________________________",
 	"_____"	:"_______________________________________________________________________________________",
-
-	
 }
