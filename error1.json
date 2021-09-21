@@ -1,0 +1,42 @@
+{
+	"Visit" 	: "https://www.spotmaze.com"		,
+	"Your WebSite"	: "https://spotmaze.world/__USERNAME__"	,
+
+	"_"	:"_______________________________________________________________________________________",
+	
+	"Developer Mode": {
+		"Status"	: 	"Off"			,	"Info1":	"Turns on the Developer Interface"	,
+		"File Name"	: 	"My World"		,	"Info2":	"Name of the file"			,
+		"Version"	: 	"0.0.2"			,	"Info3":	"File Version for checking FIle"	,
+		"Syntax"	:	"1.0"			,	"Info4":	"File Syntax Version"			,
+	},
+
+	"__"	:"_______________________________________________________________________________________",
+
+	"Base Plate": {	
+		"Xmin"	:	-10	,
+		"Xmax"	:	 10	, 	
+		"Ymin"	:	-10	,	
+		"Ymax"	: 	 10  	,
+	},
+
+	"___"	:"_______________________________________________________________________________________",
+
+	"Spots": [
+		{"Name": "Room"  	,	"Location": [0, 0]  	, 	"Text":"Room 1<size=60%>\n\n(Press <u>Enter</u> Here)"   ,	"Forum": "welcome-to-the-forum/room-1"},
+		{"Name": "_Reapeat_"  	,	"Location": [1, 0]  	, 	"Text":"Agenda"			},
+		{"Name": "_Reapeat_" 	,	"Location": [2, 0]  	, 	"Text":"<size=80%>Readings"  	},
+		{"Name": "Targets"  	,	"Location": [3, 0]  	, 	"Text":"Targets"   		},
+	],
+
+	"Maze": [
+		{ "Start": "Room"   		,	"End": "_Reapeat_"  	},
+		{ "Start": "_Reapeat_"   		,	"End": "Readings"  	},
+		{ "Start": "Readings"   	,	"End": "Targets"  	},
+	],
+
+	"____"	:"_______________________________________________________________________________________",
+	"_____"	:"_______________________________________________________________________________________",
+
+	
+}
