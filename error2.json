@@ -32,7 +32,7 @@
 	"Maze": [
 		{ "Start": "Room"   		,	"End": "Agenda"  	},
 		{ "Start": "Agenda"   		,	"End": "Readings"  	},
-		{ "Start": "_Random_Name_"   	,	"End": "Targets"  	},
+		{ "Start": "**Random_Name**"   	,	"End": "Targets"  	},
 	],
 
 	"____"	:"_______________________________________________________________________________________",
