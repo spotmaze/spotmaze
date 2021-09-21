@@ -8,7 +8,7 @@
 		"Status"	: 	"Off"			,	"Info1":	"Turns on the Developer Interface"	,
 		"File Name"	: 	"My World"		,	"Info2":	"Name of the file"			,
 		"Version"	: 	"0.0.2"			,	"Info3":	"File Version for checking FIle"	,
-		"Syntax"	:	"1.0"			,	"Info4":	"File Syntax Version"			,
+		"Syntax"	:	"1.0"			,	"Info4":	"File Syntax Version"			
 	},
 
 	"Section [2]"	:"_______________________Spotmaze Description__________________________(Section Required)",
@@ -17,7 +17,7 @@
 		"Xmin"	:	-10	,
 		"Xmax"	:	 10	, 	
 		"Ymin"	:	-10	,	
-		"Ymax"	: 	 10  	,
+		"Ymax"	: 	 10  	
 	},
 
 	"Info1"	:"Spots field consists of the location information in your world",
@@ -54,7 +54,7 @@
 		{"Name": "control2"  	,	"Location": [0, -3]  	, 	"Text":"ENTER\n<size=80%>Enter Forum"		},
 		{"Name": "control3"  	,	"Location": [0, -4]  	, 	"Text":"SHIFT\n<size=80%>Run"			},
 		{"Name": "control4"  	,	"Location": [0, -5]  	, 	"Text":"Mouse\n<size=80%>Look & Zoom"  		},
-		{"Name": "control5"  	,	"Location": [0, -6]  	, 	"Text":"Arrow Keys\n& W-A-S-D\nMove"   		},
+		{"Name": "control5"  	,	"Location": [0, -6]  	, 	"Text":"Arrow Keys\n& W-A-S-D\nMove"   		}
 			
 	],
 
@@ -92,7 +92,7 @@
 		{ "Start": "control3"   	,	"End": "control4"  	},
 		{ "Start": "control4"   	,	"End": "control5"  	},
 
-		{ "Start": "Benefit6"   	,	"End": "Feature6"  	,	 "Path": [ [3,6] , [3,7] , [1,7] , [1,6] ] },
+		{ "Start": "Benefit6"   	,	"End": "Feature6"  	,	 "Path": [ [3,6] , [3,7] , [1,7] , [1,6] ] }
 		
 	],
 
@@ -102,28 +102,28 @@
 	"Info": {
 		"URLs":{
 			"spotmaze.json"	:	"https://spotmaze.world/__USERNAME__"		,
-		        "room-1.json"	:	"https://spotmaze.world/__USERNAME__?room-1"	,
+		        "room-1.json"	:	"https://spotmaze.world/__USERNAME__?room-1"	
 		 },
 		
 		"Dev Mode": {
 			"1": "Turn on Dev mode to see numbering and file versions"						,
 			"2": "Check file version before running program"							,
 			"3": "Validate/Edit your JSON file using any JSON editors/validors, at https://jsonformatter.org/"	,
-			"4": "To use custome file, use querry (?) parameter folloed by "	, 
-			"5": "For eg https://spotmaze.world/My_Github_User_ID/?myfile"						,
+			"4": "To use custome file, use querry (?) parameter folloed by "					, 
+			"5": "For eg https://spotmaze.world/My_Github_User_ID/?myfile"						
 		},
 
 		"JSON Editors":{
 			"1" : "https://csvjson.com/json_beautifier"	,
 			"2": "https://jsonlint.com/"			,
 			"3": "https://jsononline.net/json-checker"	,
-			"4": "https://jsonformatter.org/"		,
+			"4": "https://jsonformatter.org/"		
 		},		
 
 		"Maze": {
 			"1": "When Explicit Path is specified Spotmaze ignores the S1 and S2 tags"					,
 			"2": "To ensure valid path, exactly one co-ordinate of two consective path points needs to remain unchanged"	,
-			"3": "For eg [1,2]->[1,5] is valid, but [1,6]->[4,1] is invalid"						,
-		},
+			"3": "For eg [1,2]->[1,5] is valid, but [1,6]->[4,1] is invalid"						
+		}
 	}
 }
