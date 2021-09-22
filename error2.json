@@ -23,7 +23,7 @@
 	"___"	:"_______________________________________________________________________________________",
 
 	"Spots": [
-		{"Name": "Room"  	,	"Location": [0, 0]  	, 	"Text":"Room"   		,	"Forum": "welcome-to-the-forum/room-1"},
+		{"Name": "Room"  	,	"Location": [0, 0]  	, 	"Text":"Room"   		},
 		{"Name": "Hall"  	,	"Location": [1, 0]  	, 	"Text":"Hall"			},
 		{"Name": "Kitchen" 	,	"Location": [2, 0]  	, 	"Text":"Kitchen"  		},
 		{"Name": "Bedroom"  	,	"Location": [3, 0]  	, 	"Text":"Bedroom"   		}
