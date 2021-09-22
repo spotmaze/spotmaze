@@ -47,15 +47,8 @@
 		{"Name": "Benefit3"    ,	"Location": [3, 3]  	, 	"Text":"Spatial Memory"   					,	"Image" : "Images/slide.png"  		},
 		{"Name": "Benefit4"    ,	"Location": [3, 4]  	, 	"Text":"<size=80%>Better Recollection"    			,	"Image" : "Images/slide.png"  		},
 		{"Name": "Benefit5"    ,	"Location": [3, 5]  	, 	"Text":"<size=80%>Better Engagement"     			,	"Image" : "Images/slide.png"  		},
-		{"Name": "Benefit6"    ,	"Location": [3, 6]  	, 	"Text":"Improved Grasping"     					,	"Image" : "Images/slide.png"  		},
+		{"Name": "Benefit6"    ,	"Location": [3, 6]  	, 	"Text":"Improved Grasping"     					,	"Image" : "Images/slide.png"  		}
 
-		{"Name": "controls"  	,	"Location": [0, -1]  	, 	"Text":"Controls"   				},
-		{"Name": "control1"  	,	"Location": [0, -2]  	, 	"Text":"TAB\n<size=80%>Pause \n& Options"	},
-		{"Name": "control2"  	,	"Location": [0, -3]  	, 	"Text":"ENTER\n<size=80%>Enter Forum"		},
-		{"Name": "control3"  	,	"Location": [0, -4]  	, 	"Text":"SHIFT\n<size=80%>Run"			},
-		{"Name": "control4"  	,	"Location": [0, -5]  	, 	"Text":"Mouse\n<size=80%>Look & Zoom"  		},
-		{"Name": "control5"  	,	"Location": [0, -6]  	, 	"Text":"Arrow Keys\n& W-A-S-D\nMove"   		}
-			
 	],
 
 	"Info2"	:"Maze field consists of the connectivity of Locations in your world",
@@ -85,12 +78,6 @@
 		{ "Start": "Benefit3"   	,	"End": "Benefit4"  	},
 		{ "Start": "Benefit4"   	,	"End": "Benefit5"  	},
 		{ "Start": "Benefit5"   	,	"End": "Benefit6"  	},
-
-		{ "Start": "controls"   	,	"End": "control1"  	},
-		{ "Start": "control1"   	,	"End": "control2"  	},
-		{ "Start": "control2"   	,	"End": "control3"  	},
-		{ "Start": "control3"   	,	"End": "control4"  	},
-		{ "Start": "control4"   	,	"End": "control5"  	},
 
 		{ "Start": "Benefit6"   	,	"End": "Feature6"  	,	 "Path": [ [3,6] , [3,7] , [1,7] , [1,6] ] }
 		
