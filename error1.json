@@ -24,15 +24,14 @@
 
 	"Spots": [
 		{"Name": "Room"  		,	"Location": [0, 0]  	, 	"Text":"Error 1<size=60%>\n\n(<u>Spots</u> Error Here)"   ,	"Forum": "welcome-to-the-forum/room-1"},
-		{"Name": "**Repeat_Name**"  	,	"Location": [1, 0]  	, 	"Text":"Agenda"			},
-		{"Name": "**Repeat_Name**" 	,	"Location": [2, 0]  	, 	"Text":"<size=80%>Readings"  	},
-		{"Name": "Targets"  		,	"Location": [3, 0]  	, 	"Text":"Targets"   		}
+		{"Name": "Hall"  		,	"Location": [1, 0]  	, 	"Text":"Agenda"			},
+		{"Name": "Hall" 		,	"Location": [2, 0]  	, 	"Text":"<size=80%>Readings"  	},
+		{"Name": "Kitchen"  		,	"Location": [3, 0]  	, 	"Text":"Targets"   		}
 	],
 
 	"Maze": [
-		{ "Start": "Room"   		,	"End": "**Repeat_Name**"  	},
-		{ "Start": "**Repeat_Name**"   	,	"End": "Readings"  	},
-		{ "Start": "Readings"   	,	"End": "Targets"  	}
+		{ "Start": "Room"   		,	"End": "Hall"  	},
+		{ "Start": "Hall"   		,	"End": "Kitchen"  	},
 	],
 
 	"____"	:"_______________________________________________________________________________________",
