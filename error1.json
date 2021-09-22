@@ -23,14 +23,14 @@
 	"___"	:"_______________________________________________________________________________________",
 
 	"Spots": [
-		{"Name": "Room"  		,	"Location": [0, 0]  	, 	"Text":"Error 1<size=60%>\n\n(<u>Spots</u> Error Here)"   ,	"Forum": "welcome-to-the-forum/room-1"},
-		{"Name": "Hall"  		,	"Location": [1, 0]  	, 	"Text":"Agenda"			},
-		{"Name": "Hall" 		,	"Location": [2, 0]  	, 	"Text":"<size=80%>Readings"  	},
-		{"Name": "Kitchen"  		,	"Location": [3, 0]  	, 	"Text":"Targets"   		}
+		{"Name": "Room"  		,	"Location": [0, 0]  	, 	"Text":"Room"   		,	"Forum": "welcome-to-the-forum/room-1"},
+		{"Name": "Hall"  		,	"Location": [1, 0]  	, 	"Text":"Hall"			},
+		{"Name": "Hall" 		,	"Location": [2, 0]  	, 	"Text":"<size=80%>Hall"  	},
+		{"Name": "Kitchen"  		,	"Location": [3, 0]  	, 	"Text":"Kitchen"   		}
 	],
 
 	"Maze": [
-		{ "Start": "Room"   		,	"End": "Hall"  	},
+		{ "Start": "Room"   		,	"End": "Hall"  		},
 		{ "Start": "Hall"   		,	"End": "Kitchen"  	},
 	],
 
