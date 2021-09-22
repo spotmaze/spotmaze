@@ -7,9 +7,9 @@ You first create a grid of connected locations and pathways. These are meant to 
 ## Launch your world
 - To launch your world, copy/fork this "[spotmaze.json](https://github.com/spotmaze/spotmaze/blob/main/spotmaze.json)" file into your own repository re-named "[spotmaze](https://github.com/spotmaze/spotmaze)". 
 - To see the world, go to your URL [https://spotmaze.world/\_\_USERNAME\_\_](https://spotmaze.world/spotmaze)
-- To refresh your world, you can rename your file to "[room-1.json](https://github.com/spotmaze/spotmaze/blob/main/room-1.json)"  
+- To refresh your world, you can rename your file to "[room1.json](https://github.com/spotmaze/spotmaze/blob/main/room-1.json)"  
 - Use your URL with a queery parameter(?) 
-- For eg [https://spotmaze.world/\_\_USERNAME\_\_?room-1](https://spotmaze.world/spotmaze?room-1). 
+- For eg [https://spotmaze.world/\_\_USERNAME\_\_?room1](https://spotmaze.world/spotmaze?room1). 
 - To embed images into your world, you can drag and drop your Image folder into the repository, and add "[Images/my-img.png](https://github.com/spotmaze/spotmaze/tree/main/Images)" into the image field. 
 - You can further customize your world by editing the appropriate fields in your [spotmaze.json](https://github.com/spotmaze/spotmaze/blob/main/spotmaze.json) file. 
 ## Debug
