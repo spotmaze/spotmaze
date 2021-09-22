@@ -23,7 +23,7 @@
 	"___"	:"_______________________________________________________________________________________",
 
 	"Spots": [
-		{"Name": "Room"  	,	"Location": [0, 0]  	, 	"Text":"Error 2<size=60%>\n\n(<u>Maze</u> Error Here)"   ,	"Forum": "welcome-to-the-forum/room-1"},
+		{"Name": "Room"  	,	"Location": [0, 0]  	, 	"Text":"Room"   		,	"Forum": "welcome-to-the-forum/room-1"},
 		{"Name": "Hall"  	,	"Location": [1, 0]  	, 	"Text":"Hall"			},
 		{"Name": "Kitchen" 	,	"Location": [2, 0]  	, 	"Text":"<size=80%>Kitchen"  	},
 		{"Name": "Bedroom"  	,	"Location": [3, 0]  	, 	"Text":"Bedroom"   		}
