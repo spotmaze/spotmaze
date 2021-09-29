@@ -47,7 +47,7 @@
 		{"Name": "Benefit3"    ,	"Location": [3, 3]  	, 	"Text":"Spatial Memory"   					,	"Image" : "Images/slide.png"  		},
 		{"Name": "Benefit4"    ,	"Location": [3, 4]  	, 	"Text":"<size=80%>Better Recollection"    			,	"Image" : "Images/slide.png"  		},
 		{"Name": "Benefit5"    ,	"Location": [3, 5]  	, 	"Text":"<size=80%>Better Engagement"     			,	"Image" : "Images/slide.png"  		},
-		{"Name": "Benefit6"    ,	"Location": [3, 6]  	, 	"Text":"Improved Grasping"     					,	"Image" : "Images/slide.png"  		}
+		{"Name": "Benefit6"    ,	"Location": [3, 6]  	, 	"Text":"Improved Grasping"     					,	"Image" : "Images/lemon.png"  		}
 
 	],
 
