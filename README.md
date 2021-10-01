@@ -25,9 +25,10 @@ For an __in-game debugging__ experience
 - Press `backspace` to toggle the debug console.
 
 ## Rooms with Bugs
-Two error rooms are provided for you, where you can test some commom mistakes while writing the source file.
-- Spot duplicate name error : https://spotmaze.world/spotmaze?error1
-- Spot name not found error : https://spotmaze.world/spotmaze?error2
+THree error rooms are provided for you, where you can test some commom mistakes while writing the source file.
+- Spot duplicate name error   :   https://spotmaze.world/spotmaze?error1
+- Spot name not found error   :   https://spotmaze.world/spotmaze?error2
+- Image not found error       :   https://spotmaze.world/spotmaze?error3
 
 <!--
 **spotmaze/spotmaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
