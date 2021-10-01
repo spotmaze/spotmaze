@@ -29,6 +29,8 @@ THree error rooms are provided for you, where you can test some commom mistakes 
 - Spot duplicate name error   :   https://spotmaze.world/spotmaze?error1
 - Spot name not found error   :   https://spotmaze.world/spotmaze?error2
 - Image not found error       :   https://spotmaze.world/spotmaze?error3
+- User not found error       :   https://spotmaze.world/spotmaze_other
+- Room not found error       :   https://spotmaze.world/spotmaze?lounge
 
 <!--
 **spotmaze/spotmaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
