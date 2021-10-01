@@ -1,0 +1,42 @@
+{
+	"Visit" 	: "https://www.spotmaze.com"		,
+	"Your WebSite"	: "https://spotmaze.world/__USERNAME__"	,
+
+	"_"	:"_____________________Common_Errors_while_Writing_Maze_________________________________",
+	
+	"Developer Mode": {
+		"Status"	: 	"Off"			,	"Info1":	"Turns on the Developer Interface"	,
+		"File Name"	: 	"My World"		,	"Info2":	"Name of the file"			,
+		"Version"	: 	"0.0.2"			,	"Info3":	"File Version for checking FIle"	,
+		"Syntax"	:	"1.0"			,	"Info4":	"File Syntax Version"			
+	},
+
+	"__"	:"_______________________________________________________________________________________",
+
+	"Base Plate": {	
+		"Xmin"	:	-10	,
+		"Xmax"	:	 10	, 	
+		"Ymin"	:	-10	,	
+		"Ymax"	: 	 10  	
+	},
+
+	"___"	:"_______________________________________________________________________________________",
+
+	"Spots": [
+		{"Name": "Room"  	,	"Location": [0, 0]  	, 	"Text":"Room"   		,"Image":"room.png"},
+		{"Name": "Hall"  	,	"Location": [1, 0]  	, 	"Text":"Hall"			,"Image":"room.png"},
+		{"Name": "Kitchen" 	,	"Location": [2, 0]  	, 	"Text":"Kitchen"  ,"Image":"room.png"		},
+		{"Name": "Bedroom"  	,	"Location": [3, 0]  	, 	"Text":"Bedroom"  ,"Image":"room.png" 		}
+	],
+
+	"Maze": [
+		{ "Start": "Room"   		,	"End": "Hall"  		},
+		{ "Start": "Hall"   		,	"End": "Kitchen"  	},
+		{ "Start": "Kitchen"   		,	"End": "Bedroom"  	}
+	],
+
+	"____"	:"_______________________________________________________________________________________",
+	"_____"	:"_______________________________________________________________________________________"
+
+	
+}
