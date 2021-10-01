@@ -25,7 +25,7 @@ For an __in-game debugging__ experience
 - Press `backspace` to toggle the debug console.
 
 ## Rooms with Bugs
-THree error rooms are provided for you, where you can test some commom mistakes while writing the source file.
+Three error rooms are provided for you, where you can test some commom mistakes while writing the source file.
 - Spot duplicate name error   :   https://spotmaze.world/spotmaze?error1
 - Spot name not found error   :   https://spotmaze.world/spotmaze?error2
 - Image not found error       :   https://spotmaze.world/spotmaze?error3
