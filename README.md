@@ -29,6 +29,9 @@ Three error rooms are provided for you, where you can test some commom mistakes 
 - Spot duplicate name error   :   https://spotmaze.world/spotmaze?error1
 - Spot name not found error   :   https://spotmaze.world/spotmaze?error2
 - Image not found error       :   https://spotmaze.world/spotmaze?error3
+
+## URLs with Bugs
+If an incorrect URL is entered, the application will throw up a user not found error.
 - User not found error       :   https://spotmaze.world/spotmaze_other
 - Room not found error       :   https://spotmaze.world/spotmaze?lounge
 
