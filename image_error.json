@@ -23,10 +23,10 @@
 	"___"	:"_______________________________________________________________________________________",
 
 	"Spots": [
-		{"Name": "Room"  	,	"Location": [0, 0]  	, 	"Text":"Room"   		,"Image":"room.png"},
-		{"Name": "Hall"  	,	"Location": [1, 0]  	, 	"Text":"Hall"			,"Image":"room.png"},
-		{"Name": "Kitchen" 	,	"Location": [2, 0]  	, 	"Text":"Kitchen"  ,"Image":"room.png"		},
-		{"Name": "Bedroom"  	,	"Location": [3, 0]  	, 	"Text":"Bedroom"  ,"Image":"room.png" 		}
+		{"Name": "Room"  	,	"Location": [0, 0]  	, 	"Text":"Room"   	,	"Image":"Images/room.png"	},
+		{"Name": "Hall"  	,	"Location": [1, 0]  	, 	"Text":"Hall"		,	"Image":"Images/room.png"	},
+		{"Name": "Kitchen" 	,	"Location": [2, 0]  	, 	"Text":"Kitchen"  	,	"Image":"Images/room.png"	},
+		{"Name": "Bedroom"  	,	"Location": [3, 0]  	, 	"Text":"Bedroom"  	,	"Image":"room.png" 		}
 	],
 
 	"Maze": [
