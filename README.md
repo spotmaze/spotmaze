@@ -26,9 +26,9 @@ For an __in-game debugging__ experience
 
 ## Rooms with Bugs
 Three error rooms are provided for you, where you can test some commom mistakes while writing the source file.
-- Spot duplicate name error   :   https://spotmaze.world/spotmaze?error1
-- Spot name not found error   :   https://spotmaze.world/spotmaze?error2
-- Image not found error       :   https://spotmaze.world/spotmaze?error3
+- Spot duplicate name [error1.json](https://github.com/spotmaze/spotmaze/blob/main/error1.json)   :   https://spotmaze.world/spotmaze?error1
+- Spot name not found [error2.json](https://github.com/spotmaze/spotmaze/blob/main/error2.json)  :   https://spotmaze.world/spotmaze?error2
+- Image not found [error3.json](https://github.com/spotmaze/spotmaze/blob/main/error3.json)      :   https://spotmaze.world/spotmaze?error3
 
 ## Links with Bugs
 If an incorrect link is entered, the application will throw up a user not found error.
