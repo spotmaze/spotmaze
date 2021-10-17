@@ -33,7 +33,7 @@ Three error rooms are provided for you, where you can test some commom mistakes 
 ## Links with Bugs
 If an incorrect link is entered, the application will throw up a user not found error.
 - User not found error       :   https://spotmaze.world/spotmaze_other
-- Room not found error       :   https://spotmaze.world/spotmaze?lounge
+- Room not found error       :   https://spotmaze.world/spotmaze_other?lounge
 
 <!--
 **spotmaze/spotmaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
