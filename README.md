@@ -5,7 +5,8 @@ Spotmaze is a virtual world creation platform that enables you to build and cust
 You first create a grid of connected locations and pathways. These are meant to represent any topics that are closely related. Each location can be then be linked to a forum, where you can receive responses from your community. You can then share this world using a simple URL.
 
 ## Launch your world
-- To launch your world, copy/fork this "[spotmaze.json](https://github.com/spotmaze/spotmaze/blob/main/spotmaze.json)" file into your own repository re-named "[spotmaze](https://github.com/spotmaze/spotmaze)". 
+- To launch your world, fork this repository and the "[spotmaze.json](https://github.com/spotmaze/spotmaze/blob/main/spotmaze.json)" file into your own repository. 
+- You repo name must be "[spotmaze](https://github.com/spotmaze/spotmaze)". 
 - To see the world, go to your URL [https://spotmaze.world/\_\_USERNAME\_\_](https://spotmaze.world/spotmaze)
 - To refresh your world, you can rename your file to "[room1.json](https://github.com/spotmaze/spotmaze/blob/main/room-1.json)"  
 - Use your URL with a queery parameter(?) 
