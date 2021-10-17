@@ -11,8 +11,11 @@ You first create a grid of connected locations and pathways. These are meant to 
 - To refresh your world, you can rename your file to "[room1.json](https://github.com/spotmaze/spotmaze/blob/main/room-1.json)"  
 - Use your URL with a queery parameter(?) 
 - For eg [https://spotmaze.world/spotmaze?room1](https://spotmaze.world/spotmaze?room1). 
-- To embed images into your world, you can drag and drop your Image folder into the repository, and add "[Images/my-img.png](https://github.com/spotmaze/spotmaze/tree/main/Images)" into the image field. 
-- You can further customize your world by editing the appropriate fields in your [spotmaze.json](https://github.com/spotmaze/spotmaze/blob/main/spotmaze.json) file. 
+
+## Customize your world
+- You can customize your world by editing the appropriate fields in your [spotmaze.json](https://github.com/spotmaze/spotmaze/blob/main/spotmaze.json) file. 
+- To add images into your world, you can drag and drop your Image folder into the repository, 
+- Then add "[Images/my-img.png](https://github.com/spotmaze/spotmaze/tree/main/Images)" into the locations the image field. 
 
 ## Validate your world
 To Validate your JSON source file, you can use any JSON Validator. For eg
