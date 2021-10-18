@@ -1,0 +1,30 @@
+	"Maze": [
+
+		{ "Start": "Intro"   		,	"End": "Features"  	},
+		{ "Start": "Features"   	,	"End": "Applications"  	},
+		{ "Start": "Applications"   	,	"End": "Benefits"  	},
+
+		{ "Start": "Features"   	,	"End": "Feature1"  	},
+		{ "Start": "Feature1"   	,	"End": "Feature2"  	},
+		{ "Start": "Feature2"   	,	"End": "Feature3"  	},
+		{ "Start": "Feature3"   	,	"End": "Feature4"  	},
+		{ "Start": "Feature4"   	,	"End": "Feature5"  	},
+		{ "Start": "Feature5"   	,	"End": "Feature6"  	},
+
+		{ "Start": "Applications"   	,	"End": "Application1"  	},
+		{ "Start": "Application1"   	,	"End": "Application2"  	},
+		{ "Start": "Application2"   	,	"End": "Application3"  	},
+		{ "Start": "Application3"   	,	"End": "Application4"  	},
+		{ "Start": "Application4"   	,	"End": "Application5"  	},
+		{ "Start": "Application5"   	,	"End": "Application6"  	},
+		
+		{ "Start": "Benefits"   	,	"End": "Benefit1"  	},
+		{ "Start": "Benefit1"   	,	"End": "Benefit2"  	},
+		{ "Start": "Benefit2"   	,	"End": "Benefit3"  	},
+		{ "Start": "Benefit3"   	,	"End": "Benefit4"  	},
+		{ "Start": "Benefit4"   	,	"End": "Benefit5"  	},
+		{ "Start": "Benefit5"   	,	"End": "Benefit6"  	},
+
+		{ "Start": "Benefit6"   	,	"End": "Feature6"  	,	 "Path": [ [3,6] , [3,7] , [1,7] , [1,6] ] }
+		
+	],
