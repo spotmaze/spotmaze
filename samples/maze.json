@@ -1,3 +1,4 @@
+{
 	"Maze": [
 
 		{ "Start": "Intro"   		,	"End": "Features"  	},
@@ -27,4 +28,5 @@
 
 		{ "Start": "Benefit6"   	,	"End": "Feature6"  	,	 "Path": [ [3,6] , [3,7] , [1,7] , [1,6] ] }
 		
-	],
+	]
+}
