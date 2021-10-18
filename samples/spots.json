@@ -1,0 +1,30 @@
+{
+	"Spots": [																										
+		{"Name": "Intro"  	,	"Location": [0, 0]  	, 	"Text":"What is Spotmaze?<size=60%>\n\n(Press <u>Enter</u> Here)"   	,	"Forum": "welcome-to-the-forum/what-is-spotmaze"	},			
+		{"Name": "Features"  	,	"Location": [1, 0]  	, 	"Text":"Features"   							,	"Forum": "welcome-to-the-forum/features"		},	
+		{"Name": "Applications" ,	"Location": [2, 0]  	, 	"Text":"<size=80%>Applications"  					,	"Forum": "welcome-to-the-forum/applications"		},		
+		{"Name": "Benefits"  	,	"Location": [3, 0]  	, 	"Text":"Benefits"   							,	"Forum": "welcome-to-the-forum/benefits"		},		
+																																		
+		{"Name": "Feature1"    	,	"Location": [1, 1]   	, 	"Text":"<size=70%>Build Worlds</size>\n\n\n\n\n"   		,	"Image" : "Images/build.png"  		,	"Forum": "welcome-to-the-forum/build-worlds"		},	
+		{"Name": "Feature2"    	,	"Location": [1, 2]   	, 	"Text":"<size=70%>Create Locations</size>\n\n\n\n\n"		,	"Image" : "Images/location.png"  	,	"Forum": "welcome-to-the-forum/create-locations"	},	
+		{"Name": "Feature3"    	,	"Location": [1, 3]   	, 	"Text":"<size=70%>Connect Forums</size>\n\n\n\n\n"     		,	"Image" : "Images/forum.png"  		,	"Forum": "welcome-to-the-forum/connect-forums"		},	
+		{"Name": "Feature4"    	,	"Location": [1, 4]   	, 	"Text":"<size=70%>Create Rooms</size>\n\n\n\n\n" 		,	"Image" : "Images/room.png"  		,	"Forum": "welcome-to-the-forum/create-rooms"		},	
+		{"Name": "Feature5"    	,	"Location": [1, 5]   	, 	"Text":"<size=70%>Write Content</size>\n\n\n\n\n"		,	"Image" : "Images/content.png"  	,	"Forum": "welcome-to-the-forum/write-content"		},	
+		{"Name": "Feature6"    	,	"Location": [1, 6]   	, 	"Text":"<size=70%>Embed Images</size>\n\n\n\n\n" 		,	"Image" : "Images/image.png"  		,	"Forum": "welcome-to-the-forum/embed-images"		},	
+
+		{"Name": "Application1" ,	"Location": [2, -1]  	, 	"Text":"<size=70%>Building Maps</size>\n\n\n\n\n"     		,	"Image" : "Images/maps.png"  		,	"Forum": "welcome-to-the-forum/building-maps"		},	
+		{"Name": "Application2" ,	"Location": [2, -2]  	, 	"Text":"<size=70%>Tour Creation</size>\n\n\n\n\n"   		,	"Image" : "Images/tour.png"  		,	"Forum": "welcome-to-the-forum/tour-creation"		},	
+		{"Name": "Application3" ,	"Location": [2, -3]  	, 	"Text":"<size=50%>Organizing Meetups</size>\n\n\n\n\n"     	,	"Image" : "Images/meetups.png"  	,	"Forum": "welcome-to-the-forum/organizing-meetups"	},	
+		{"Name": "Application4" ,	"Location": [2, -4]  	, 	"Text":"<size=80%>Gamification</size>\n\n\n\n\n"		,	"Image" : "Images/game.png"  		,	"Forum": "welcome-to-the-forum/gamification"		},	
+		{"Name": "Application5" ,	"Location": [2, -5]  	, 	"Text":"<size=70%>Finding Content</size>\n\n\n\n\n"		,	"Image" : "Images/find.png"  		,	"Forum": "welcome-to-the-forum/finding-content"		},		
+		{"Name": "Application6" ,	"Location": [2, -6]  	, 	"Text":"<size=70%>Site Maps</size>\n\n\n\n\n"			,	"Image" : "Images/sitemap.png"  	,	"Forum": "welcome-to-the-forum/site-maps"		},		
+																																		
+		{"Name": "Benefit1"    ,	"Location": [3, 1]  	, 	"Text":"<size=70%>Community</size>\n\n\n\n\n"     		,	"Image" : "Images/community.png"  	,	"Forum": "welcome-to-the-forum/community"		},	
+		{"Name": "Benefit2"    ,	"Location": [3, 2]  	, 	"Text":"Spatial Learning"					,	"Image" : "Images/slide.png"  		,	"Forum": "welcome-to-the-forum/spatial-learning"	},	
+		{"Name": "Benefit3"    ,	"Location": [3, 3]  	, 	"Text":"Spatial Memory"   					,	"Image" : "Images/slide.png"  		,	"Forum": "welcome-to-the-forum/spatial-memory"		},	
+		{"Name": "Benefit4"    ,	"Location": [3, 4]  	, 	"Text":"<size=80%>Better Recollection"    			,	"Image" : "Images/slide.png"  		,	"Forum": "welcome-to-the-forum/better-recollection"	},	
+		{"Name": "Benefit5"    ,	"Location": [3, 5]  	, 	"Text":"<size=80%>Better Engagement"     			,	"Image" : "Images/slide.png"  		,	"Forum": "welcome-to-the-forum/better-engagement"	},	
+		{"Name": "Benefit6"    ,	"Location": [3, 6]  	, 	"Text":"Improved Grasping"     					,	"Image" : "Images/slide.png"  		,	"Forum": "welcome-to-the-forum/improved-grasping"	}	
+																																	
+	],	
+}
