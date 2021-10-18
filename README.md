@@ -19,9 +19,10 @@ You first create a grid of connected locations and pathways. These are meant to 
 
 ## Customize your world (using an Excel Spreadsheet)
 - You also customize your world using Excel spreadsheet. 
-- After editing, use an Excell converter to convert your XLSX to JSON.
-- Upload your [Excel file](https://raw.githubusercontent.com/spotmaze/spotmaze/main/spotmaze.xlsx) in the format as shown as [here](https://raw.githubusercontent.com/spotmaze/spotmaze/main/spotmaze.xlsx) to https://beautifytools.com/excel-to-json-converter.php.
-- The website will build a valid JSON that you have to copy paste into your source file.
+- After editing, upload your custom [Excel file](https://raw.githubusercontent.com/spotmaze/spotmaze/main/spotmaze.xlsx) to this [Excell converter](https://beautifytools.com/excel-to-json-converter.php.) to convert your XLSX to JSON. The website will build you a valid JSON that you can use as your source file.
+- Copy & paste this output into your existing JSON source file to compleate the process 
+- Or else replace the current file with the newly created one from the website.
+- Your XLSX format should match the standard format as shown here in this [repository file](https://raw.githubusercontent.com/spotmaze/spotmaze/main/spotmaze.xlsx).
 
 ## Validate your world
 To Validate your JSON source file, you can use any JSON Validator. For eg
