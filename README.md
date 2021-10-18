@@ -17,6 +17,11 @@ You first create a grid of connected locations and pathways. These are meant to 
 - To add images into your world, you can drag and drop your Image folder into the repository, 
 - Then add "[Images/my-img.png](https://github.com/spotmaze/spotmaze/tree/main/Images)" into the locations the image field. 
 
+## Excel to JSON conversion
+- You also edit your world using Excel and then convert your excel file to JSON using the Online Excell converter.
+- Upload your Excel file in the standard format to the following website.
+- Excel to JSON conversion website : https://beautifytools.com/excel-to-json-converter.php 
+
 ## Validate your world
 To Validate your JSON source file, you can use any JSON Validator. For eg
 - https://jsoneditoronline.org/beta/#right=local.qujuzu&left=local.wuxedu (Highly Recommended)
