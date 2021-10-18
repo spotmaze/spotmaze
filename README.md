@@ -19,8 +19,8 @@ You first create a grid of connected locations and pathways. These are meant to 
 
 ## Excel to JSON conversion
 - You also edit your world using Excel and then convert your excel file to JSON using the Online Excell converter.
-- Upload your Excel file in the standard format to the following website.
-- Excel to JSON conversion website : https://beautifytools.com/excel-to-json-converter.php 
+- Upload your [Excel file](https://raw.githubusercontent.com/spotmaze/spotmaze/main/spotmaze.xlsx) in the given format to the following website.
+- Use Excel to JSON conversion website : https://beautifytools.com/excel-to-json-converter.php 
 
 ## Validate your world
 To Validate your JSON source file, you can use any JSON Validator. For eg
