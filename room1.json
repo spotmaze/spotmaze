@@ -1,26 +1,29 @@
 {
-	"Visit" 	: "https://www.spotmaze.com"		,
-	"Your WebSite"	: "https://spotmaze.world/__USERNAME__"	,
-
-	"_"	:"_______________________________________________________________________________________",
+	"Website": [
+		{
+		    "Visit": "https://www.spotmaze.com",
+		    "World": "https://spotmaze.world/spotmaze",
+		    "Excel to JSON Conversion": "https://beautifytools.com/excel-to-json-converter.php# "
+		}
+	    ],
 	
-	"Developer Mode": {
-		"Status"	: 	"Off"			,	"Info1":	"Turns on the Developer Interface"	,
-		"File Name"	: 	"My World"		,	"Info2":	"Name of the file"			,
-		"Version"	: 	"0.0.2"			,	"Info3":	"File Version for checking FIle"	,
-		"Syntax"	:	"1.0"			,	"Info4":	"File Syntax Version"			
-	},
+	"Developer Mode": [
+		{
+		    "Status"	: "Off"		,	
+		    "File Name"	: "My World"	,	
+		    "Version"	: "0.0.2"	,	
+		    "Syntax"	: "1.0"				
+		}
+	    ],
 
-	"__"	:"_______________________________________________________________________________________",
-
-	"Base Plate": {	
-		"Xmin"	:	-10	,
-		"Xmax"	:	 10	, 	
-		"Ymin"	:	-10	,	
-		"Ymax"	: 	 10  	
-	},
-
-	"___"	:"_______________________________________________________________________________________",
+	"Base Plate": [
+		{
+		    "Xmin": "-10",
+		    "Xmax": "10",
+		    "Ymin": "-10",
+		    "Ymax": "10"
+		}
+	    ],
 
 	"Spots": [
 		{"Name": "Room"  	,	"Location": [0, 0]  	, 	"Text":"Room 1<size=60%>\n\n(Press <u>Enter</u> Here)"   ,	"Forum": "welcome-to-the-forum/room-1"},
