@@ -24,7 +24,9 @@ You first create a grid of connected locations and pathways. These are meant to 
 - Copy & paste this output into your existing JSON source file to compleate the process.
 - Or else replace the current file with the newly created one from the website.
 - Your XLSX format should match the standard format as shown here in this [repository file](https://raw.githubusercontent.com/spotmaze/spotmaze/main/spotmaze.xlsx)
-- Download the Spotmaze Excel File from link https://raw.githubusercontent.com/spotmaze/spotmaze/main/spotmaze.xlsx
+## Download the Spotmaze Excel File
+- GitHub link https://raw.githubusercontent.com/spotmaze/spotmaze/main/spotmaze.xlsx
+- Google drive Link https://docs.google.com/spreadsheets/d/1Q0a8-2sIvj7IQSQ2C1mAVWkEygv6768o/edit?usp=sharing&ouid=101583459295701473733&rtpof=true&sd=true
 - Your final JSON file should look like this.
 - https://raw.githubusercontent.com/spotmaze/spotmaze/main/excel_import.json
 - You can test this imported file using the link below
