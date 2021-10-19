@@ -2,7 +2,7 @@
 	"Visit" 	: "https://www.spotmaze.com"		,
 	"Your WebSite"	: "https://spotmaze.world/__USERNAME__"	,
 
-	"Section [1] "	:"_______________________Developer Section_____________________________(Section Highly Recommended To Add)",
+	"Section 1 "	:"_______________________Developer Section_____________________________(Section Highly Recommended To Add)",
 	
 	"Developer Mode": [{
 		"Status"	: 	"Off"			,	"Info1":	"Turns on the Developer Interface"	,
@@ -11,7 +11,7 @@
 		"Syntax"	:	"1.0"			,	"Info4":	"File Syntax Version"			
 	}],
 
-	"Section [2] "	:"_______________________Spotmaze Description__________________________(Section Required)",
+	"Section 2 "	:"_______________________Spotmaze Description__________________________(Section Required)",
 
 	"Base Plate": [{	
 		"Xmin"	:	-10	,
@@ -85,7 +85,7 @@
 	],
 
 	
-	"Section [3] "	:"___________________________General Information_______________________________(Section Not Required)",
+	"Section 3 "	:"___________________________General Information_______________________________(Section Not Required)",
 
 	"Info": {
 		"URLs":{
