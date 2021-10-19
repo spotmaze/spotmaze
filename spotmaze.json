@@ -4,21 +4,21 @@
 
 	"Section [1]"	:"_______________________Developer Section_____________________________(Section Highly Recommended To Add)",
 	
-	"Developer Mode": {
+	"Developer Mode": [{
 		"Status"	: 	"Off"			,	"Info1":	"Turns on the Developer Interface"	,
 		"File Name"	: 	"My World"		,	"Info2":	"Name of the file"			,
 		"Version"	: 	"0.0.2"			,	"Info3":	"File Version for checking FIle"	,
 		"Syntax"	:	"1.0"			,	"Info4":	"File Syntax Version"			
-	},
+	}],
 
 	"Section [2]"	:"_______________________Spotmaze Description__________________________(Section Required)",
 
-	"Base Plate": {	
+	"Base Plate": [{	
 		"Xmin"	:	-10	,
 		"Xmax"	:	 10	, 	
 		"Ymin"	:	-10	,	
 		"Ymax"	: 	 10  	
-	},
+	}],
 
 	"Info1"	:"Spots field consists of the location information in your world",
 	
