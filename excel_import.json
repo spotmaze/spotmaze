@@ -9,7 +9,7 @@
     "Developer Mode": [
         {
             "Status": "Off",
-            "File Name": "My World",
+            "File Name": "Excel Import World",
             "Version": "0.0.2",
             "Syntax": "1"
         }
@@ -25,7 +25,7 @@
     "Spots": [
         {
             "Name": "Intro",
-            "Text": "What is Spotmaze?<size=60%>\\n\\n(Press <u>Enter</u> Here)",
+            "Text": "What is Spotmaze?<size=60%>\\n\\n(Excel Import World)",
             "Forum": "welcome-to-the-forum/what-is-spotmaze",
             "X": "0",
             "Y": "0",
