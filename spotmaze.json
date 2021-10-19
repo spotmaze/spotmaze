@@ -1,26 +1,30 @@
 {
-	"Visit" 	: "https://www.spotmaze.com"		,
-	"Your WebSite"	: "https://spotmaze.world/__USERNAME__"	,
-
-	"Section 1 "	:"_______________________Developer Section_____________________________(Section Highly Recommended To Add)",
 	
-	"Developer Mode": [{
-		"Status"	: 	"Off"			,	"Info1":	"Turns on the Developer Interface"	,
-		"File Name"	: 	"My World"		,	"Info2":	"Name of the file"			,
-		"Version"	: 	"0.0.2"			,	"Info3":	"File Version for checking FIle"	,
-		"Syntax"	:	"1.0"			,	"Info4":	"File Syntax Version"			
-	}],
+	"Website": [
+		{
+		    "Visit": "https://www.spotmaze.com",
+		    "World": "https://spotmaze.world/spotmaze",
+		    "Excel to JSON Conversion": "https://beautifytools.com/excel-to-json-converter.php# "
+		}
+	    ],
+	
+	"Developer Mode": [
+		{
+		    "Status"	: "Off"		,	"Info1":	"Turns on the Developer Interface"	,
+		    "File Name"	: "My World"	,	"Info2":	"Name of the file"			,
+		    "Version"	: "0.0.2"	,	"Info3":	"File Version for checking FIle"	,
+		    "Syntax"	: "1.0"		,	"Info4":	"File Syntax Version"			
+		}
+	    ],
 
-	"Section 2 "	:"_______________________Spotmaze Description__________________________(Section Required)",
-
-	"Base Plate": [{	
-		"Xmin"	:	-10	,
-		"Xmax"	:	 10	, 	
-		"Ymin"	:	-10	,	
-		"Ymax"	: 	 10  	
-	}],
-
-	"Info1"	:"Spots field consists of the location information in your world",
+	"Base Plate": [
+		{
+		    "Xmin": "-10",
+		    "Xmax": "10",
+		    "Ymin": "-10",
+		    "Ymax": "10"
+		}
+	    ],
 	
 	"Spots": [																										
 		{"Name": "Intro"  	,	"Location": [0, 0]  	, 	"Text":"What is Spotmaze?<size=60%>\n\n(Press <u>Enter</u> Here)"   	,	"Forum": "welcome-to-the-forum/what-is-spotmaze"	},			
