@@ -1,17 +1,18 @@
 {
     "Website": [
         {
-            "Visit": "https://www.spotmaze.com",
+            "Login": "https://www.spotmaze.com",
             "World": "https://spotmaze.world/spotmaze",
-            "Excel Convererter": "https://beautifytools.com/excel-to-json-converter.php# "
+            "Room": "https://spotmaze.world/spotmaze?room1"
         }
     ],
     "Developer Mode": [
         {
             "Status": "Off",
-            "File Name": "Excel World - 1",
-            "Version": "1.1.1",
-            "Syntax": "1"
+            "File Name": "My World",
+            "Version": "0.0.2",
+            "Syntax": "1.0",
+            "Sheet version number": "1.0"
         }
     ],
     "Base Plate": [
@@ -30,7 +31,7 @@
             "Location": "[0,0]",
             "Text": "What is Spotmaze?<size=60%>\\n\\n(Press <u>Enter</u> Here)",
             "Forum": "welcome-to-the-forum/what-is-spotmaze",
-            "Build your Spotmaze map here!\r\n(a) Write your spot names in Column A. (b) Enter your spot names below using the dropdown menus (click to activate & press Left-ALT + ↓ [down arrow] to select).": "Blank_4",
+            "Build your Spotmaze map here!\r\n(a) Write your spot names in Column A. (b) Enter your spot names below using the dropdown menus (click to activate & press Left-ALT(⌥) + ↓ [down arrow] to select).": "Blank_4",
             "undefined": "Blank_3"
         },
         {
@@ -222,7 +223,7 @@
             "Text": "<size=80%>Better Engagement",
             "Forum": "welcome-to-the-forum/better-engagement",
             "Image": "Images/slide.png",
-            "Build your Spotmaze map here!\r\n(a) Write your spot names in Column A. (b) Enter your spot names below using the dropdown menus (click to activate & press Left-ALT + ↓ [down arrow] to select).": "Blank_1",
+            "Build your Spotmaze map here!\r\n(a) Write your spot names in Column A. (b) Enter your spot names below using the dropdown menus (click to activate & press Left-ALT(⌥) + ↓ [down arrow] to select).": "Blank_1",
             "undefined": "Blank_2"
         },
         {
@@ -1276,11 +1277,12 @@
             "P2": "[-10,-10]"
         }
     ],
-    "Path segments": [
+    "Paths": [
         {
             "X": "0",
             "Y": "0",
             "Paths": "Intro",
+            "undefined": "Drag 3 cells \r\nat a time",
             "Blank_1": "0",
             "-10": "-9",
             "-10, -10": "-9, -10"
@@ -1702,6 +1704,7 @@
             "X": "3",
             "Y": "5",
             "Paths": "Benefit5",
+            "undefined": "Drag 3 cells \r\nat a time",
             "Blank_1": "0",
             "-10": "9",
             "-10, -10": "9, -8"
@@ -3382,6 +3385,7 @@
             "X": "-10",
             "Y": "-10",
             "Paths": "Blank_1",
+            "undefined": "Drag 3 cells \r\nat a time",
             "Blank_1": "0",
             "-10": "-3",
             "-10, -10": "-3, 4"
@@ -3400,17 +3404,11 @@
             "-10, -10": "-1, 4"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "0",
             "-10, -10": "0, 4"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "Feature4",
             "-10": "1",
             "-10, -10": "1, 4"
@@ -3421,17 +3419,11 @@
             "-10, -10": "2, 4"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "Benefit4",
             "-10": "3",
             "-10, -10": "3, 4"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "4",
             "-10, -10": "4, 4"
@@ -3442,17 +3434,11 @@
             "-10, -10": "5, 4"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "6",
             "-10, -10": "6, 4"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "7",
             "-10, -10": "7, 4"
@@ -3463,17 +3449,11 @@
             "-10, -10": "8, 4"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "9",
             "-10, -10": "9, 4"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "10",
             "-10, -10": "10, 4"
@@ -3484,17 +3464,11 @@
             "-10, -10": "-10, 5"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "-9",
             "-10, -10": "-9, 5"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "-8",
             "-10, -10": "-8, 5"
@@ -3505,17 +3479,11 @@
             "-10, -10": "-7, 5"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "-6",
             "-10, -10": "-6, 5"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "-5",
             "-10, -10": "-5, 5"
@@ -3526,17 +3494,11 @@
             "-10, -10": "-4, 5"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "-3",
             "-10, -10": "-3, 5"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "-2",
             "-10, -10": "-2, 5"
@@ -3547,17 +3509,11 @@
             "-10, -10": "-1, 5"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "0",
             "-10, -10": "0, 5"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "Feature5",
             "-10": "1",
             "-10, -10": "1, 5"
@@ -3568,17 +3524,11 @@
             "-10, -10": "2, 5"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "Benefit5",
             "-10": "3",
             "-10, -10": "3, 5"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "4",
             "-10, -10": "4, 5"
@@ -3589,17 +3539,11 @@
             "-10, -10": "5, 5"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "6",
             "-10, -10": "6, 5"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "7",
             "-10, -10": "7, 5"
@@ -3610,17 +3554,11 @@
             "-10, -10": "8, 5"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "9",
             "-10, -10": "9, 5"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "10",
             "-10, -10": "10, 5"
@@ -3631,17 +3569,11 @@
             "-10, -10": "-10, 6"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "-9",
             "-10, -10": "-9, 6"
         },
         {
-            "X": "0",
-            "Y": "0",
-            "Paths": "0",
             "Blank_1": "0",
             "-10": "-8",
             "-10, -10": "-8, 6"
@@ -3652,33 +3584,21 @@
             "-10, -10": "-7, 6"
         },
         {
-            "X": "3",
-            "Y": "6",
-            "Paths": "Path",
             "Blank_1": "0",
             "-10": "-6",
             "-10, -10": "-6, 6"
         },
         {
-            "X": "3",
-            "Y": "7",
-            "Paths": "Benefit7",
             "Blank_1": "0",
             "-10": "-5",
             "-10, -10": "-5, 6"
         },
         {
-            "X": "1",
-            "Y": "7",
-            "Paths": "to",
             "Blank_1": "0",
             "-10": "-4",
             "-10, -10": "-4, 6"
         },
         {
-            "X": "1",
-            "Y": "6",
-            "Paths": "Feature7",
             "Blank_1": "0",
             "-10": "-3",
             "-10, -10": "-3, 6"
@@ -4167,6 +4087,38 @@
             "Blank_1": "Blank_3",
             "-10": "10",
             "-10, -10": "10, 10"
+        }
+    ],
+    "Upload Process": [
+        {
+            "Steps to upload your Excel file to Spotmaze": "1. Fork the default Spotmaze Repository",
+            "Details": "(1) Create/Login to your GitHub account\r\n(2) Fork the spotmaze repository on GItHub",
+            "Go to the website": "Fork this Repo : https://github.com/spotmaze/spotmaze"
+        },
+        {
+            "Steps to upload your Excel file to Spotmaze": "2. Download the default Spotmaze Excel",
+            "Details": "(1) Download from the default excell sheet to get started. \r\n(2) Edit the Spots and Maze sheet.\r\n(3) Extend any extra segments to the Paths sheet for visualization .",
+            "Go to the website": "Dowload Spreadsheet: https://docs.google.com/spreadsheets/d/1Q0a8-2sIvj7IQSQ2C1mAVWkEygv6768o"
+        },
+        {
+            "Steps to upload your Excel file to Spotmaze": "3. Upload Spotmaze Excel (Post-editing)",
+            "Details": "(1) Go to the online Excel Convererter \r\n(2) Upload this file to the online convererter.\r\n(3) Press convert ",
+            "Go to the website": "Go to Excel Convererter: https://beautifytools.com/excel-to-json-converter.php# "
+        },
+        {
+            "Steps to upload your Excel file to Spotmaze": "Option 1 : Copy & Paste",
+            "Details": "(1) Open your forked Spotmaze repo\r\n(2) You'll find a spotmaze.json. Begin editing this file.\r\n(2) Copy Paste the converted text into this file.",
+            "Go to the website": "Your forked repo : https://github.com/[username]/spotmaze"
+        },
+        {
+            "Steps to upload your Excel file to Spotmaze": "Option 2 : Rename & Upload",
+            "Details": "(1) Download the output file from the converter.\r\n(2) Rename the output file to spotmaze.json \r\n(3) Upload to your forked GitHub repo and replace the existing file.",
+            "Go to the website": "Link to your world : https://spotmaze.world/[username]_"
+        },
+        {
+            "Steps to upload your Excel file to Spotmaze": "Option 3 : Create a custom room",
+            "Details": "(1) Download output file \r\n(2) Rename output file to myroom.json \r\n(3) Upload this file to your forked Spotmaze repo",
+            "Go to the website": "Link to your room : https://spotmaze.world/[username]?myroom"
         }
     ]
 }
