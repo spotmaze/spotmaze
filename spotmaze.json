@@ -39,7 +39,7 @@
 		{"Name": "Feature5"    	,	"Location": [1, 5]   	, 	"Text":"<size=70%>Write Content</size>\n\n\n\n\n"		,	"Image" : "Images/content.png"  	,	"Forum": "welcome-to-the-forum/write-content"		},	
 		{"Name": "Feature6"    	,	"Location": [1, 6]   	, 	"Text":"<size=70%>Embed Images</size>\n\n\n\n\n" 		,	"Image" : "Images/image.png"  		,	"Forum_": "welcome-to-the-forum/embed-images"		 ,"Room": "room1"	},	
 
-		{"Name": "Application1" ,	"Location": [2, -1]  	, 	"Text":"<size=70%>Building Maps</size>\n\n\n\n\n"     		,	"Image" : "Images/maps.png"  				},	
+		{"Name": "Application1" ,	"Location": [2, -1]  	, 	"Text":"<size=70%>Building Maps</size>\n\n\n\n\n"     		,	"Image" : "Images/maps.png"  		,	"Forum_": "welcome-to-the-forum/building-maps"		 },	
 		{"Name": "Application2" ,	"Location": [2, -2]  	, 	"Text":"<size=70%>Tour Creation</size>\n\n\n\n\n"   		,	"Image" : "Images/tour.png"  		,	"Forum": "welcome-to-the-forum/tour-creation"		},	
 		{"Name": "Application3" ,	"Location": [2, -3]  	, 	"Text":"<size=50%>Organizing Meetups</size>\n\n\n\n\n"     	,	"Image" : "Images/meetups.png"  	,	"Forum": "welcome-to-the-forum/organizing-meetups"	},	
 		{"Name": "Application4" ,	"Location": [2, -4]  	, 	"Text":"<size=80%>Gamification</size>\n\n\n\n\n"		,	"Image" : "Images/game.png"  		,	"Forum": "welcome-to-the-forum/gamification"		},	
