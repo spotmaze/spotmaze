@@ -27,7 +27,7 @@
 	    ],
 	
 	"Spots": [																										
-		{"Name": "Intro"  	,	"Location": [0, 0]  	, 	"Text":"What is Spotmaze?<size=60%>\n\n(Press <u>Enter</u> Here)"   	,	"Forum": "welcome-to-the-forum/what-is-spotmaze"	},			
+		{"Name": "Intro"  	,	"Location": [0, 0]  	, 	"Text":"What is Spotmaze?<size=60%>\n\n(Press <u>Enter</u> Here)"   	,	"Forum": "https://www.spotmaze.com/forum/welcome-to-the-forum/what-is-spotmaze"	},			
 		{"Name": "Features"  	,	"Location": [1, 0]  	, 	"Text":"Features"   							,	"Forum": "welcome-to-the-forum/features"		},	
 		{"Name": "Applications" ,	"Location": [2, 0]  	, 	"Text":"<size=80%>Applications"  					,	"Forum": "welcome-to-the-forum/applications"		},		
 		{"Name": "Benefits"  	,	"Location": [3, 0]  	, 	"Text":"Benefits"   							,	"Forum": "welcome-to-the-forum/benefits"		},		
