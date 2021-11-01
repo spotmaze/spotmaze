@@ -1,11 +1,11 @@
 # Welcome to the Spotmaze Repository
 Spotmaze is a virtual world creation platform that enables you to build and customize your own personalized virtual worlds.
 
-## How it works?
-You first create a grid of connected locations and pathways. These are meant to represent any topics that are closely related. Each location can be then be linked to a forum, where you can receive responses from your community. You can then share this world using a simple URL.
-
 ## Download the Spotmaze video tutorials
 https://drive.google.com/drive/folders/1uFoeFM3rilbJz49_iyZiGy5QKXaBKMjv
+
+## How it works?
+You first create a grid of connected locations and pathways. These are meant to represent any topics that are closely related. Each location can be then be linked to a forum, where you can receive responses from your community. You can then share this world using a simple URL.
 
 ## Launch your world
 - To launch your world, fork this repository and the "[spotmaze.json](https://github.com/spotmaze/spotmaze/blob/main/spotmaze.json)" file into your own repository. 
