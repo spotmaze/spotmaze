@@ -27,7 +27,7 @@
 	    ],
 	
 	"Spots": [																										
-		{"Name": "Tips"  	,	"Location": [1, -1]  	, 	"Text":"Tips\n<size=50%>Click to begin\nUse Arrows to Move\n\n</size><size=35%>(Works on Deskstop only)"},	
+		{"Name": "Tips"  	,	"Location": [1, -1]  	, 	"Text":"Tips\n<size=60%>Click to begin\nPress TAB\nUse Arrows\n\n(Deskstop only)"},	
 
 		{"Name": "Intro"  	,	"Location": [0, 0]  	, 	"Text":"What is Spotmaze?<size=60%>\n\n(Press <u>Enter</u> Here)"   	,	"Forum": "https://www.spotmaze.com/forum/welcome-to-the-forum/what-is-spotmaze"	},			
 		{"Name": "Features"  	,	"Location": [1, 0]  	, 	"Text":"Features"   							,	"Forum": "welcome-to-the-forum/features"		},	
